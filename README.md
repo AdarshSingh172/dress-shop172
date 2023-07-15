@@ -41,7 +41,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## Authors
 
-- [@Abhishek Singh Rana](https://www.github.com/abhishek72340)
+- [@Mithlesh Kumar](https://www.github.com/AdarshSingh172)
 
 
 ## Deployment
@@ -63,12 +63,12 @@ To run this project, you will need to add the following environment variables to
 
 ## Feedback
 
-If you have any feedback, please reach out to us at abhisingh.72340@gmail.com
+If you have any feedback, please reach out to us at mithleshkumar638681@gmail.com
 
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-rana-6354a9180/)
+[![linkedin](https://www.linkedin.com/in/mithlesh-kumar-0b91bb254/)
 
 
 ## Tech Stack
