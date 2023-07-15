@@ -66,10 +66,6 @@ To run this project, you will need to add the following environment variables to
 If you have any feedback, please reach out to us at mithleshkumar638681@gmail.com
 
 
-## 🔗 Links
-
-[![linkedin](https://www.linkedin.com/in/mithlesh-kumar-0b91bb254/)
-
 
 ## Tech Stack
 
