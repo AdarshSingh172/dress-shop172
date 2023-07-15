@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#check-out {
+    height: 70vh;
+    width: 27vw;
+    border: 1px solid lightseagreen;
+    box-shadow: 1px 1px 10px lightgray;
+    margin-right: 2rem;
+    
+}
+
+
+#checkout-data {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+#cart-subtotal {
+    display: flex;
+    justify-content: space-around;
+    gap:3rem;
+}
+
+#subtotal-ammount {
+    font-weight: lighter;
+
+}
+
+#input-address {
+    font-weight: lighter;
+}
+
+#shipping-cart-product {
+    display: flex;
+    justify-content: space-around;
+}
+
+#horizontal-line {
+    height: 1px;
+    background-color: lightseagreen;
+    width: 20vw;
+    margin-top: 4rem;
+}
+
+#line {
+    display: flex;
+    justify-content: center;
+}
+
+#total {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+    margin-left: -1.5rem;
+}
+
+#total-ammount {
+    font-weight: lighter;
+    font-size: 1.4rem;
+}
+
+#checkout-button {
+    width: 22vw;
+    height: 2rem;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightseagreen;
+    font-weight: 500;
+    word-spacing: 5px;
+    cursor: pointer;
+}
+
+#check-btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    color: white;
+}
+
+/* Design for Mobile */
+@media(max-width:480px) {
+    #check-out {
+        height: 25vh;
+        width: 50vw;
+        border: 1px solid lightseagreen;
+    }
+
+    #shipping-cart-product {
+        display: flex;
+        justify-content: space-around;
+
+    }
+
+    #check-out-box {
+        margin-right: 2rem;
+    }
+
+    #horizontal-line {
+
+        width: 35vw;
+        margin-top: 2.5rem;
+    }
+
+    #checkout-button {
+        width: 35vw;
+        height: 2.5rem;
+        font-size: 10px;
+        background-color: lightseagreen;
+        font-weight: 0px;
+        word-spacing: 0px;
+    }
+
+    #check-btn {
+        margin-top: 2.5rem;
+
+    }
+
+}
+
+/* Design for Tablet */
+@media (max-width:1024px) {
+    #check-out {
+        height: 32vh;
+        width: 35vw;
+    }
+
+    #change-address {
+        margin-right: 5rem;
+        font-weight: lighter;
+        font-size: 12px;
+        margin-top: -1.5rem;
+    }
+
+    #checkout-button {
+        width: 20vw;
+        height: 2rem;
+        font-size: 10px;
+        background-color: lightseagreen;
+        font-weight: 0px;
+        word-spacing: 0px;
+        margin-top: -10px;
+    }
+
+    #cart-subtotal {
+        margin-left: -2rem;
+    }
+
+    #shipping-cart-product {
+        display: flex;
+        justify-content: space-around;
+
+    }
+
+    #shipping-to {
+        font-weight: lighter;
+    }
+
+}
+
+/* Design for small Tablet */
+@media (max-width:769px) {
+    #check-out {
+        height: 25vh;
+        width: 50vw;
+        border: 1px solid lightseagreen;
+    }
+
+    #check-out-box {
+        margin-right: 2rem;
+    }
+
+    #change-address {
+        font-size: 10px;
+    }
+
+    #horizontal-line {
+
+        width: 35vw;
+        margin-top: 2.5rem;
+    }
+
+    #checkout-button {
+        width: 35vw;
+        height: 2.5rem;
+        font-size: 10px;
+        background-color: lightseagreen;
+        font-weight: 0px;
+        word-spacing: 0px;
+    }
+
+    #check-btn {
+        margin-top: 2.5rem;
+
+    }
+
+}
