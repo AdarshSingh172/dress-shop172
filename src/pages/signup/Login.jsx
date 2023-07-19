@@ -12,8 +12,8 @@ const [userDetails,setUserDetails] = useState({
   })
   const {notifySuccess,notifyError} =useToast();
     const dummyUser = {
-    email: "mithleshkumar638681@gmail.com",
-    password: "mithlesh",
+    email: 'abhisngh.72340@gmail.com",
+    password: "abhishek",
   };
   const applyDummyData=(e)=>{
     e.preventDefault();
